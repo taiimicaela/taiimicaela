@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-- 👋 Hi, I’m @taiimicaela<br>- 👀 I’m interested in front-end development...<br>- 🌱 I’m currently learning front-end in react...<br>- 📫 How to reach me (https://www.linkedin.com/in/taiimicaela/)...<br>- ⚡ Fun fact: I love watching cartoons to fall asleep...
+- 👋 Hi, I’m @taiimicaela<br>- 👀 I’m interested in full stack development...<br>- 🌱 I’m currently learning programming logic in javascript and TOTVS Fluig...<br>- 📫 How to reach me (https://www.linkedin.com/in/taiimicaela/)...<br>- ⚡ Fun fact: I love watching cartoons to fall asleep...
 
 
 ## 🌐 Socials:
