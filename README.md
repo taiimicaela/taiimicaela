@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-- 👋 Hi, I’m @taiimicaela<br>- 👀 I’m interested in full stack development...<br>- 🌱 I’m currently learning programming logic in javascript and TOTVS Fluig...<br>- 📫 How to reach me (https://www.linkedin.com/in/taiimicaela/)...<br>- ⚡ Fun fact: I love watching cartoons to fall asleep...
+- 👋 Hi, I’m @taiimicaela<br>- 👀 I’m interested in software quality testing...<br>- 🌱 I am currently learning about modeling, documentation, and test execution...<br>- 📫 How to reach me (https://www.linkedin.com/in/taiimicaela/)...<br>- ⚡ Fun fact: I love watching cartoons to fall asleep...
 
 
 ## 🌐 Socials:
