@@ -32,5 +32,5 @@ Para elevar meu nível como Analista, estou estudando as seguintes ferramentas e
 - **LinkedIn:** [https://www.linkedin.com/in/taina-micaela/]
 - **Email:** [taiina11@live.com]
 
-![taiimicaela](https://github-readme-stats.vercel.app)
+![(https://github.com/taiimicaela)](https://github-readme-stats.vercel.app)
 
