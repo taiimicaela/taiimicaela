@@ -1,41 +1,26 @@
 # Olá, eu sou a Tainá! 👋
 
-### 🔍 Analista de Testes de Software (QA)
-Sou uma entusiasta da qualidade de software, focada em garantir que produtos digitais entreguem valor e confiança aos usuários. Atualmente, dedico meu tempo ao planejamento, execução de testes manuais e documentação técnica detalhada.
+Atualmente, estou em transição de carreira focada em me tornar **Analista de Testes de Qualidade de Software (QA)**. Sou apaixonada por garantir a entrega de produtos com excelência e estou mergulhando no mundo da automação.
 
----
+### 🚀 O que estou aprendendo agora:
+- **Linguagens:** Java, JavaScript e Python.
+- **Web Testing:** Selenium Webdriver e Cypress.
+- **API Testing:** Postman e Newman.
+- **Metodologias:** Escrita de casos de teste, BDD (Gherkin) e testes de regressão.
 
-### 🛠️ O que eu já domino (Skills Atuais)
-- **Testes Manuais:** Escrita de Casos de Teste, Plano de Teste e Reporte de Bugs.
-- **Documentação:** Markdown, Planilhas de Execução e Evidências Visuais.
-- **Gestão:** Metodologia Kanban (GitHub Projects/Trello).
-- **Ambientes:** Web (Chrome DevTools).
+### 🛠️ Minha Stack de Estudos:
+<div style="display: inline_block">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com">
+  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com">
+</div>
 
----
+### 📊 Projetos em Destaque:
+*Aqui você pode listar seus repositórios de estudo, por exemplo:*
+- [Projeto de Portfólio: QA Manual](https://github.com/taiimicaela/portfolio-qa-manual)
 
-### 📚 Em constante aprendizado (Próximos Passos)
-Para elevar meu nível como Analista, estou estudando as seguintes ferramentas e conceitos:
 
-- **API Testing:** Postman e Insomnia (Validando requisições GET/POST).
-- **Metodologias Ágeis:** Scrum, Kanban e escrita de Critérios de Aceite.
-- **Mobile Testing:** Testes em dispositivos reais e simuladores.
-- **Automação (Futuro):** Introdução ao JavaScript e Cypress.
-
----
-
-### 📂 Meus Projetos em Destaque
-- [**Teste Manual - Sauce Demo**](link-do-seu-repositorio): Ciclo completo de testes, do plano ao bug report.
-
----
-
-### 📫 Vamos trocar uma ideia?
+### 📫 Vamos nos conectar?
 - **LinkedIn:** [https://www.linkedin.com/in/taina-micaela/]
 - **Email:** [taiina11@live.com]
-
-### 🛠️ Tecnologias e Ferramentas
-![QA](https://img.shields.io)
-![Manual Testing](https://img.shields.io)
-![GitHub](https://img.shields.io)
-![Postman](https://img.shields.io)
-
-
