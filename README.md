@@ -1,19 +1,36 @@
+# Olá, eu sou a Tainá! 👋
 
-# 💫 About Me:
-- 👋 Hi, I’m @taiimicaela<br>- 👀 I’m interested in software quality testing...<br>- 🌱 I am currently learning about modeling, documentation, and test execution...<br>- 📫 How to reach me (https://www.linkedin.com/in/taiimicaela/)...<br>- ⚡ Fun fact: I love watching cartoons to fall asleep...
+### 🔍 Analista de Testes de Software (QA)
+Sou uma entusiasta da qualidade de software, focada em garantir que produtos digitais entreguem valor e confiança aos usuários. Atualmente, dedico meu tempo ao planejamento, execução de testes manuais e documentação técnica detalhada.
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taiimicaela/) 
+### 🛠️ O que eu já domino (Skills Atuais)
+- **Testes Manuais:** Escrita de Casos de Teste, Plano de Teste e Reporte de Bugs.
+- **Documentação:** Markdown, Planilhas de Execução e Evidências Visuais.
+- **Gestão:** Metodologia Kanban (GitHub Projects/Trello).
+- **Ambientes:** Web (Chrome DevTools).
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=taiimicaela&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=taiimicaela&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taiimicaela&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=taiimicaela&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📚 Em constante aprendizado (Próximos Passos)
+Para elevar meu nível como Analista, estou estudando as seguintes ferramentas e conceitos:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **API Testing:** Postman e Insomnia (Validando requisições GET/POST).
+- **Metodologias Ágeis:** Scrum, Kanban e escrita de Critérios de Aceite.
+- **Mobile Testing:** Testes em dispositivos reais e simuladores.
+- **Automação (Futuro):** Introdução ao JavaScript e Cypress.
+
+---
+
+### 📂 Meus Projetos em Destaque
+- [**Teste Manual - Sauce Demo**](link-do-seu-repositorio): Ciclo completo de testes, do plano ao bug report.
+
+---
+
+### 📫 Vamos trocar uma ideia?
+- **LinkedIn:** [https://www.linkedin.com/in/taina-micaela/]
+- **Email:** [taiina11@live.com]
+
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app)
+
