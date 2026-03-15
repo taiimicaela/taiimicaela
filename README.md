@@ -1,26 +1,67 @@
-# Olá, eu sou a Tainá! 👋
+# 👋 Olá! Eu sou a Tainá
 
-Atualmente, estou em transição de carreira focada em me tornar **Analista de Testes de Qualidade de Software (QA)**. Sou apaixonada por garantir a entrega de produtos com excelência e estou mergulhando no mundo da automação.
+💻 Quality Assurance (QA)
+🧪 Testes de Software | Automação de Testes
+📚 Estudando ferramentas e boas práticas para garantir a qualidade de aplicações
 
-### 🚀 O que estou aprendendo agora:
-- **Linguagens:** Java, JavaScript e Python.
-- **Web Testing:** Selenium Webdriver e Cypress.
-- **API Testing:** Postman e Newman.
-- **Metodologias:** Escrita de casos de teste, BDD (Gherkin) e testes de regressão.
+---
 
-### 🛠️ Minha Stack de Estudos:
-<div style="display: inline_block">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com">
-  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com">
-</div>
+## 👩‍💻 Sobre mim
 
-### 📊 Projetos em Destaque:
-*Aqui você pode listar seus repositórios de estudo, por exemplo:*
-- [Projeto de Portfólio: QA Manual](https://github.com/taiimicaela/portfolio-qa-manual)
+Sou estudante de **Quality Assurance (QA)** e estou desenvolvendo habilidades em **testes manuais, testes de API e automação de testes**.
 
+Tenho interesse em garantir a qualidade de aplicações através de **análise de requisitos, criação de casos de teste, execução de testes e registro de defeitos**, aplicando boas práticas utilizadas no mercado de tecnologia.
 
-### 📫 Vamos nos conectar?
-- **LinkedIn:** [https://www.linkedin.com/in/taina-micaela/]
-- **Email:** [taiina11@live.com]
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+**Testes e QA**
+
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
+
+**Linguagens**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![Python](https://img.shields.io/badge/Python-blue)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-black)
+![GitHub](https://img.shields.io/badge/GitHub-Repositories-lightgrey)
+
+---
+
+## 📂 Projetos de QA
+
+### 🧪 QA Manual – Ciclo Completo de Testes
+
+Projeto desenvolvido para praticar o **ciclo completo de testes de software**, incluindo planejamento, criação de cenários de teste, casos de teste, execução de testes e registro de defeitos.
+
+🔗 Repositório do projeto:
+https://github.com/taiimicaela/portfolio-qa-manual
+
+---
+
+## 📚 Atualmente estudando
+
+* Fundamentos de **Quality Assurance**
+* **Testes manuais**
+* **Testes de API com Postman**
+* **Automação de testes com Selenium**
+* **Boas práticas de QA em metodologias ágeis (Scrum)**
+
+---
+
+## 🎯 Objetivo
+
+Atuar como **Analista de Qualidade de Software (QA)**, contribuindo para o desenvolvimento de aplicações confiáveis, com boa experiência para o usuário e alto padrão de qualidade.
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/taina-micaela/
+📧 Email: taiina11@live.com
