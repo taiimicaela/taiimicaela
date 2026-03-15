@@ -32,4 +32,10 @@ Para elevar meu nível como Analista, estou estudando as seguintes ferramentas e
 - **LinkedIn:** [https://www.linkedin.com/in/taina-micaela/]
 - **Email:** [taiina11@live.com]
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app)
+### 🛠️ Tecnologias e Ferramentas
+![QA](https://img.shields.io)
+![Manual Testing](https://img.shields.io)
+![GitHub](https://img.shields.io)
+![Postman](https://img.shields.io)
+
+
